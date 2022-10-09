@@ -26,5 +26,16 @@ Listed here are the memory card backup files.
 - Small Soldiers (NTSC-U/C)
 - Crash Bandicoot 3: Warped (NTSC-U/C)
 
+### [3.MCR](3.MCR)
+- Chocobo Racing (NTSC-J)
+- Zero Divide 2 (NTSC-J)
+- Psychic Force (NTSC-J)
+- Destrega (NTSC-J)
+- Omega Boost (NTSC-J)
+- Tekken 3 (NTSC-J)
+- Devil Dice (NTSC-J)
+- Armored Core (NTSC-J)
+- Silent Bomber (NTSC-J)
+
 ### [EMPTY.MCR](EMPTY.MCR)
 This memory card is an empty one to restore a blank state of a physical memory card.
