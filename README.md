@@ -6,6 +6,19 @@ To put a memory card backup to a physical memory card you need to copy the wante
 ## Memory card backup files
 Listed here are the memory card backup files.
 
+### [MAIN.MCR](MAIN.MCR)
+- Vagrant Story (NTSC-U/C)
+- Re-Loaded (NTSC-U/C)
+- Spider: The Video Game (NTSC-U/C)
+- MDK (NTSC-U/C)
+- Crash Bandicoot 3: Warped (NTSC-U/C)
+- Chocobo Racing (NTSC-J)
+- Zero Divide 2 (NTSC-J)
+- Psychic Force (NTSC-J)
+- Destrega (NTSC-J)
+- Omega Boost (NTSC-J)
+- Tekken 3 (NTSC-J)
+
 ### [1.MCR](1.MCR)
 - Re-Loaded (NTSC-U/C)
 - Shadow Man (NTSC-U/C)
