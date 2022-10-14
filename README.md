@@ -1,7 +1,7 @@
 # PlayStation memory card backups
 
 ## Usage
-To put a memory card backup to a physical memory card you need to copy the wanted backup file listed below to your physical memory card (using for instance a [PicoMemcard](https://github.com/dangiu/PicoMemcard)) and rename the file to `MEMCARD.MCR`.
+To put a memory card backup to a physical memory card you need to copy the wanted backup file listed below to your physical memory card (using for instance a [PicoMemcard](https://github.com/dangiu/PicoMemcard) or a [MemCARDuino](https://github.com/ShendoXT/memcarduino) in combination with [MemcardRex](https://github.com/ShendoXT/memcardrex)) and rename the file to `MEMCARD.MCR`.
 
 ## Memory card backup files
 Listed here are the memory card backup files and their contents.
