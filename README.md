@@ -18,6 +18,8 @@ Listed here are the memory card backup files.
 - Destrega (NTSC-J)
 - Omega Boost (NTSC-J)
 - Tekken 3 (NTSC-J)
+- Future Cop: LAPD (NTSC-U/C)
+- Alien Trilogy (NTSC-U/C)
 
 ### [1.MCR](1.MCR)
 - Re-Loaded (NTSC-U/C)
