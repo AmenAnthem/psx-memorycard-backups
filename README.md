@@ -11,7 +11,7 @@ Listed here are the memory card backup files and their contents.
 - Re-Loaded (NTSC-U/C)
 - Spider: The Video Game (NTSC-U/C)
 - MDK (NTSC-U/C)
-- Crash Bandicoot 3: Warped (NTSC-U/C)
+- Final Fantasy VII (NTSC-U/C)
 - Chocobo Racing (NTSC-J)
 - Zero Divide 2 (NTSC-J)
 - Psychic Force (NTSC-J)
@@ -46,6 +46,7 @@ Listed here are the memory card backup files and their contents.
 - R4: Ridge Racer Type 4 (NTSC-J)
 - Silent Bomber (NTSC-J)
 - Jumping Flash 2 (NTSC-J)
+- Crash Bandicoot 3: Warped (NTSC-U/C)
 
 ### [EMPTY.MCR](EMPTY.MCR)
 This memory card is an empty one to restore a blank state of a physical memory card.
