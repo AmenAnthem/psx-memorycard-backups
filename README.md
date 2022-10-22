@@ -18,7 +18,6 @@ Listed here are the memory card backup files and their contents.
 - Destrega (NTSC-J)
 - Omega Boost (NTSC-J)
 - Tekken 3 (NTSC-J)
-- Future Cop: LAPD (NTSC-U/C)
 - Alien Trilogy (NTSC-U/C)
 
 ### [ORANGE_ORIG.MCR](ORANGE_ORIG.MCR)
@@ -46,6 +45,7 @@ Listed here are the memory card backup files and their contents.
 - R4: Ridge Racer Type 4 (NTSC-J)
 - Silent Bomber (NTSC-J)
 - Jumping Flash 2 (NTSC-J)
+- Future Cop: LAPD (NTSC-U/C)
 - Crash Bandicoot 3: Warped (NTSC-U/C)
 
 ### [EMPTY.MCR](EMPTY.MCR)
