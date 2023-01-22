@@ -47,6 +47,13 @@ Listed here are the memory card backup files and their contents.
 - Jumping Flash 2 (NTSC-J)
 - Future Cop: LAPD (NTSC-U/C)
 - Crash Bandicoot 3: Warped (NTSC-U/C)
+- Wild 9 (NTSC-U/C)
+- Final Fantasy Tactics (NTSC-U/C)
+
+### [BLACK_ORIG.MCR](BLACK_ORIG.MCR)
+- Legacy of Kain: Soul Reaver (NTSC-U/C)
+- Blood Omen: Legacy of Kain (NTSC-U/C)
+- Vampire Hunter D (NTSC-U/C)
 
 ### [EMPTY.MCR](EMPTY.MCR)
 This memory card is an empty one to restore a blank state of a physical memory card.
