@@ -54,6 +54,8 @@ Listed here are the memory card backup files and their contents.
 - Legacy of Kain: Soul Reaver (NTSC-U/C)
 - Blood Omen: Legacy of Kain (NTSC-U/C)
 - Vampire Hunter D (NTSC-U/C)
+- Ninja: Shadow of Darkness (NTSC-U/C)
+- Akuji: The Heartless (NTSC-U/C)
 
 ### [EMPTY.MCR](EMPTY.MCR)
 This memory card is an empty one to restore a blank state of a physical memory card.
