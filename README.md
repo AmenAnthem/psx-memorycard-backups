@@ -56,6 +56,10 @@ Listed here are the memory card backup files and their contents.
 - Vampire Hunter D (NTSC-U/C)
 - Ninja: Shadow of Darkness (NTSC-U/C)
 - Akuji: The Heartless (NTSC-U/C)
+- Warhammer: Dark Omen (NTSC-U/C)
+
+### [CLEAR_ORIG.MCR](CLEAR_ORIG.MCR)
+- Populous: The Beginning (NTSC-U/C)
 
 ### [EMPTY.MCR](EMPTY.MCR)
 This memory card is an empty one to restore a blank state of a physical memory card.
