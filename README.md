@@ -57,6 +57,9 @@ Listed here are the memory card backup files and their contents.
 - Ninja: Shadow of Darkness (NTSC-U/C)
 - Akuji: The Heartless (NTSC-U/C)
 - Warhammer: Dark Omen (NTSC-U/C)
+- Loaded (NTSC-U/C)
+- Bloody Roar 2 (NTSC-J)
+- Ape Escape (NTSC-J)
 
 ### [CLEAR_ORIG.MCR](CLEAR_ORIG.MCR)
 - Populous: The Beginning (NTSC-U/C)
