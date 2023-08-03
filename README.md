@@ -60,6 +60,8 @@ Listed here are the memory card backup files and their contents.
 - Loaded (NTSC-U/C)
 - Bloody Roar 2 (NTSC-J)
 - Ape Escape (NTSC-J)
+- Steel Harbinger (NTSC-U/C)
+- Wu-Tang: Shaolin Style (NTSC-U/C)
 
 ### [CLEAR_ORIG.MCR](CLEAR_ORIG.MCR)
 - Populous: The Beginning (NTSC-U/C)
