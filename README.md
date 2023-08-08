@@ -62,6 +62,7 @@ Listed here are the memory card backup files and their contents.
 - Ape Escape (NTSC-J)
 - Steel Harbinger (NTSC-U/C)
 - Wu-Tang: Shaolin Style (NTSC-U/C)
+- Bio FREAKS (NTSC-U/C)
 
 ### [CLEAR_ORIG.MCR](CLEAR_ORIG.MCR)
 - Populous: The Beginning (NTSC-U/C)
