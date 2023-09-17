@@ -63,6 +63,13 @@ Listed here are the memory card backup files and their contents.
 - Steel Harbinger (NTSC-U/C)
 - Wu-Tang: Shaolin Style (NTSC-U/C)
 - Bio FREAKS (NTSC-U/C)
+- Deathtrap Dungeon (NTSC-U/C)
+
+### [RED_ORIG.MCR](RED_ORIG.MCR)
+- Tony Hawk's Pro Skater (NTSC-U/C)
+- Tony Hawk's Pro Skater 2 (NTSC-U/C)
+- Codename: Tenka (NTSC-U/C)
+- Kileak: The Blood (NTSC-J)
 
 ### [CLEAR_ORIG.MCR](CLEAR_ORIG.MCR)
 - Populous: The Beginning (NTSC-U/C)
