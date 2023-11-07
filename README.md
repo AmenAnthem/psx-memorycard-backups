@@ -75,7 +75,6 @@ Listed here are the memory card backup files and their contents.
 - Alien Resurrection (NTSC-U/C)
 - Disney's Hercules: Action Game (NTSC-U/C)
 - Duke Nukem: Time to Kill (NTSC-U/C)
-- Wipeout 3 (NTSC-U/C)
 - Psychic Force 2 (NTSC-J)
 
 ### [CLEAR_ORIG.MCR](CLEAR_ORIG.MCR)
