@@ -49,7 +49,7 @@ Listed here are the memory card backup files and their contents.
 - Crash Bandicoot 3: Warped (NTSC-U/C)
 - Wild 9 (NTSC-U/C)
 - Final Fantasy Tactics (NTSC-U/C)
-- Brahma Force: The Assault on Beltlogger 9 (NTSC-U/C)
+- Brahma Force: The Assault on Beltlogger 9 (NTSC-J)
 
 ### [BLACK_ORIG.MCR](BLACK_ORIG.MCR)
 - Legacy of Kain: Soul Reaver (NTSC-U/C)
