@@ -50,6 +50,7 @@ Listed here are the memory card backup files and their contents.
 - Wild 9 (NTSC-U/C)
 - Final Fantasy Tactics (NTSC-U/C)
 - BRAHMA Force: The Assault on Beltlogger 9 (NTSC-J)
+- Medievil (NTSC-U/C)
 
 ### [BLACK_ORIG.MCR](BLACK_ORIG.MCR)
 - Legacy of Kain: Soul Reaver (NTSC-U/C)
